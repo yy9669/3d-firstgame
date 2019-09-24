@@ -16,4 +16,7 @@ struct ObserveMode : Mode {
 
 	std::shared_ptr< Sound::PlayingSample > noise_loop;
 	float noise_angle = 0.0f;
+
+	int grass_num=0;
+	int judge=false;
 };

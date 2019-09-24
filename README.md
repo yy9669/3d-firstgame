@@ -1,8 +1,8 @@
-# (TODO: your game's title)
+Find grass in the room
 
-Author: (TODO: your name)
+Author: Xuyang Fang
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design: Search the room and find how many grasses are there in the room.
 
 Screen Shot:
 
@@ -10,10 +10,10 @@ Screen Shot:
 
 How To Play:
 
-(TODO: describe the controls and (if needed) goals/strategy.)
+Use left/right to switch camera, use up/down to change number of grasses, use left click to confirm the number.
 
 Sources:
 
-(TODO: fill in information about the sources of any **artwork** or **sounds** you used in the game that you did not create yourself. Feel free to also credit yourself for things you did make.)
+all sources come from city.blend in the game3 base code repository
 
 This game was built with [NEST](NEST.md).
